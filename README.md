@@ -5,7 +5,7 @@
 
 A web application that displays Chuck Norris jokes based on selected categories.
 
-[Launch Live Preview](#addLink)
+[Launch Live Preview](https://644067c1640e744316fbeff1--cute-croissant-2587ec.netlify.app/)
 
 
 ## Table of Contents
