@@ -78,7 +78,7 @@ To install the Chuck Norris Jokes application, follow the steps below:
 1. Clone the repository to your local machine:
 
 ```js
-git clone https://github.com/yourusername/chuck-norris-jokes.git
+git clone https://github.com/mmartins23/chuck-norris-jokes
 ```
 
 2. Install the dependencies:
