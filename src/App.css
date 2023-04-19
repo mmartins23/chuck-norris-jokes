@@ -1,0 +1,36 @@
+.App {
+  text-align: center;
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+}
+
+.App-header {
+  font-size: 3rem;
+  color: white;
+  width: 90vw;
+  max-width: 800px;
+}
+
+.btn-wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.btn {
+  background: #61dafb;
+  height: 55px;
+  font-size: 1.5rem;
+  padding: 10px 20px;
+  color: white;
+  border-radius: 12px;
+  border: 1px solid #61dafb;
+  margin-right: 10px;
+  margin-bottom: 10px;
+  cursor: pointer;
+}
